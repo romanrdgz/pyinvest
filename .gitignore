@@ -96,5 +96,5 @@ ENV/
 .ropeproject
 
 # Output files
-.csv
-.txt
+*.csv
+*.txt
